@@ -1,0 +1,7 @@
+base   abstract
+author peterfromearth
+email  coder@peterfromearth.de
+date   2021-10-29
+name   abstract plugin
+desc   Add a specified string to the description abstract metadata
+url    http://www.dokuwiki.org/plugin:abstract
